@@ -5,6 +5,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import DashItem from 'components/dash-item';
 import { translate as __ } from 'i18n-calypso';
+import SimpleNotice from 'components/notice';
 
 /**
  * Internal dependencies
