@@ -9,7 +9,6 @@ import Card from 'components/card';
 /**
  * Internal dependencies
  */
-import './style.scss';
 
 import {
 	FormFieldset,
